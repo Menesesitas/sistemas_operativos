@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//este código dara el valor que sea mayor a 30 en la potencia de 2 
 int main() 
 {
 	int num_n = 1;
