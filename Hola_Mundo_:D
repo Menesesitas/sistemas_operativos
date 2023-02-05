@@ -1,0 +1,4 @@
+@echo off
+echo Hola mundo! > C:\Users\ferna\OneDrive\Escritorio\hello_world.txt
+type C:\Users\ferna\OneDrive\Escritorio\hello_world.txt
+pause
