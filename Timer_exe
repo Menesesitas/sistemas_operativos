@@ -1,0 +1,7 @@
+@echo off
+set /p timer=Ingrese la cantidad de segundos: 
+echo Se va a apagar la computadora en %timer% segundos.
+timeout /t %timer%
+timeout /t 10
+echo Se ha cancelado el timer.
+pause
